@@ -1,0 +1,27 @@
+G04 Layer: BottomSolderMaskLayer*
+G04 EasyEDA Pro v2.1.49.1.de255bc8.674264, 2024-08-10 13:04:53*
+G04 Gerber Generator version 0.3*
+G04 Scale: 100 percent, Rotated: No, Reflected: No*
+G04 Dimensions in millimeters*
+G04 Leading zeros omitted, absolute positions, 3 integers and 5 decimals*
+%FSLAX35Y35*%
+%MOMM*%
+%AMRoundRect*1,1,$1,$2,$3*1,1,$1,$4,$5*1,1,$1,0-$2,0-$3*1,1,$1,0-$4,0-$5*20,1,$1,$2,$3,$4,$5,0*20,1,$1,$4,$5,0-$2,0-$3,0*20,1,$1,0-$2,0-$3,0-$4,0-$5,0*20,1,$1,0-$4,0-$5,$2,$3,0*4,1,4,$2,$3,$4,$5,0-$2,0-$3,0-$4,0-$5,$2,$3,0*%
+%ADD10C,1.1016*%
+%ADD11RoundRect,0.09302X-0.50429X-0.50429X-0.50429X0.50429*%
+G75*
+
+
+G04 Pad Start*
+G54D10*
+G01X-482600Y-444500D03*
+G01X-482600Y-571500D03*
+G01X-482600Y-825500D03*
+G01X-482600Y-952500D03*
+G54D11*
+G01X-482600Y-1079500D03*
+G54D10*
+G01X-482600Y-698500D03*
+G04 Pad End*
+
+M02*
