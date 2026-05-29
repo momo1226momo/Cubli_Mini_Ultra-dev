@@ -1,0 +1,9 @@
+# 过滤 PlatformIO 编译缓存（最关键，就是它产生了1000多个文件）
+.pio/
+.pompm/
+
+# 过滤 VS Code 自身的本地配置
+.vscode/
+
+# 过滤硬件设计的历史备份
+**/History/
