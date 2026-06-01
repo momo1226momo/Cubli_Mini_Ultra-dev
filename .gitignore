@@ -7,3 +7,11 @@
 
 # 过滤硬件设计的历史备份
 **/History/
+
+# 过滤任意目录下的编译缓存与临时文件
+**/.pio/
+**/.vscode/
+**/History/
+**/__Preview/
+*.log
+*.tmp
